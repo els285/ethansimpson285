@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+
+I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider.
+
+My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
 <!--
 **ethansimpson285/ethansimpson285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
