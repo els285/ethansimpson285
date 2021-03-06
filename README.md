@@ -4,6 +4,8 @@ I'm a particle physics student working on the ATLAS experiment at the Large Hadr
 
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!--
 **ethansimpson285/ethansimpson285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
