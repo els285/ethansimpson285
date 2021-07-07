@@ -1,4 +1,4 @@
-### Welcome to my GitHub 👋
+# Hello, I'm Ethan, welcome to my GitHub 👋
 
 I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider.
 
