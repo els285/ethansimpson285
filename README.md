@@ -6,7 +6,7 @@ I hail from Scotland and I am based in Geneva, Switzerland.
 
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
-[<img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />]
+<img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
 
 
 [<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png" />](https://www.linkedin.com/in/ethan-simpson-986215a7/)
