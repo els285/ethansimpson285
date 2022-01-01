@@ -6,13 +6,15 @@ I hail from Scotland and I am based in Geneva, Switzerland.
 
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
-<!--Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)-->
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png" />](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
-[![name](https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png =100x100)](https://www.linkedin.com/in/ethan-simpson-986215a7/)
+<!--Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
+
+[![name](https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png)](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
 ![](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
 <!--
 **ethansimpson285/ethansimpson285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
