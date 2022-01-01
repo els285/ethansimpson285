@@ -8,7 +8,9 @@ My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimps
 
 Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
-![https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png](https://www.linkedin.com/in/ethan-simpson-986215a7/)
+[![name](https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png)](https://www.linkedin.com/in/ethan-simpson-986215a7/)
+
+![](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
