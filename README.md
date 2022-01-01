@@ -1,8 +1,13 @@
 # Hello, I'm Ethan, welcome to my GitHub 👋
 
-I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider.
+## About
 
-I hail from Scotland and I am based in Geneva, Switzerland.
+I hail from Scotland and am based in Geneva, Switzerland.
+
+I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider (CERN), where I use write software for ATLAS and undertake data analysis on the heaviest (known) particle in the universe!
+
+
+## Connect
 
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
