@@ -1,20 +1,28 @@
 # Hello, I'm Ethan, welcome to my GitHub 👋
 
-## About
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png" />](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861455-606c2c56-a427-4abc-90b3-94453dd4b183.png" />](https://stackoverflow.com/users/16390696/ethan-simpson)
+
+
+
+
+**About**
 I hail from Scotland and am based in Geneva, Switzerland.
 
 I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider (CERN), where I use write software for ATLAS and undertake data analysis on the heaviest (known) particle in the universe!
 
 
-## Connect
+**What I Know and What I Do**
 
+<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-4fa5-8637-66ff53670ace.png"]
+     
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
 <img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
 
 
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861059-29980557-3b1e-4db8-81ed-95b6121f61dc.png" />](https://www.linkedin.com/in/ethan-simpson-986215a7/)
+
 
 <!--Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
