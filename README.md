@@ -2,6 +2,8 @@
 
 I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider.
 
+I hail from Scotland and I am based in Geneva, Switzerland.
+
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
