@@ -11,10 +11,10 @@ I hail from Scotland and am based in Geneva, Switzerland.
 
 I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider (CERN), where I use write software for ATLAS and undertake data analysis on the heaviest (known) particle in the universe!
 
-<img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
-
-<img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
-
+<p float="left">
+     <img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
+     <img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
+</p>
 
 **What I Know and What I Do**
 
